@@ -6,4 +6,4 @@ Join us for a taste of Linux, a popular operating system used by CS50 IDE (CS50â
 
 This seminar will offered four times. Each offering will be identical. If you would like to attend, you need only attend once. Register for any of these times at [Seminar](cs50.ly/seminars). And say hello to classmates by posting a comment at [Discussion] (edstem.org/us/courses/2879/discussion/204604!)
 
-[Commands](https://docs.google.com/document/d/1SCB3KV767VMloYI2_6N3ovldYFH01_mFmTN2-y9gEt4/edit) | CSVs]() |[Slides](https://docs.google.com/presentation/d/1ecNQSsdc1DMcIicbFYZQV968DHy9KmjEs9I3Kefw1F4/edit#slide=id.gb66805914c_0_1216)
+[Commands](https://docs.google.com/document/d/1SCB3KV767VMloYI2_6N3ovldYFH01_mFmTN2-y9gEt4/edit) | [CSVs]() |[Slides](https://docs.google.com/presentation/d/1ecNQSsdc1DMcIicbFYZQV968DHy9KmjEs9I3Kefw1F4/edit#slide=id.gb66805914c_0_1216)
